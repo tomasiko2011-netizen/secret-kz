@@ -1,0 +1,27 @@
+{
+  "/Users/guldana/Documents/New project/secret-kz/api/webhook.js": {
+    "mtime": 1774417245.5164466,
+    "ast_hash": "06adec5e91feb90ba903d53f677cdb95",
+    "semantic_hash": "06adec5e91feb90ba903d53f677cdb95"
+  },
+  "/Users/guldana/Documents/New project/secret-kz/package.json": {
+    "mtime": 1774417245.5169182,
+    "ast_hash": "97f619745bbc9b9f791ccaecfc3bc02f",
+    "semantic_hash": "97f619745bbc9b9f791ccaecfc3bc02f"
+  },
+  "/Users/guldana/Documents/New project/secret-kz/vercel.json": {
+    "mtime": 1774417245.517022,
+    "ast_hash": "4e4a4731e85fc6637ee7345524f43574",
+    "semantic_hash": "4e4a4731e85fc6637ee7345524f43574"
+  },
+  "/Users/guldana/Documents/New project/secret-kz/.github/workflows/ci.yml": {
+    "mtime": 1774946231.6423593,
+    "ast_hash": "9213c311bd10854f186ee39a766933d2",
+    "semantic_hash": "9213c311bd10854f186ee39a766933d2"
+  },
+  "/Users/guldana/Documents/New project/secret-kz/public/index.html": {
+    "mtime": 1774417245.5171196,
+    "ast_hash": "1f81ce66f15ebb31f24a75dc12a1b92e",
+    "semantic_hash": "1f81ce66f15ebb31f24a75dc12a1b92e"
+  }
+}
